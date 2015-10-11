@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.KeToan.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.Login.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.QuanTri.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Release\Ass.exe.config
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Release\Ass.exe
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Release\Ass.pdb
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.exe
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.pdb
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Release\Ass.InHoaDon.resources

@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Debug\Ass.exe.config
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Debug\Ass.exe
+C:\Users\Administrator\Desktop\C#\Ass\Ass\bin\Debug\Ass.pdb
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.Login.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.exe
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.pdb
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.KeToan.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.QuanTri.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.InHoaDon.resources
+C:\Users\Administrator\Desktop\C#\Ass\Ass\obj\x86\Debug\Ass.Form2.resources
+C:\Users\Administrator\Desktop\Ass\Ass\bin\Debug\Ass.exe.config
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.exe
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.pdb
+D:\Hoc Hanh\New folder\C#\Ass\Ass\bin\Debug\Ass.exe.config
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.exe
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.pdb
+D:\Hoc Hanh\New folder\C#\Ass\Ass\bin\Debug\Ass.exe
+D:\Hoc Hanh\New folder\C#\Ass\Ass\bin\Debug\Ass.pdb
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.csprojResolveAssemblyReference.cache
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.InHoaDon.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.Form2.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.KeToan.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.Login.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.Properties.Resources.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.QuanTri.resources
+D:\Hoc Hanh\New folder\C#\Ass\Ass\obj\x86\Debug\Ass.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Ass\Ass\bin\Debug\Ass.exe
+C:\Users\Administrator\Desktop\Ass\Ass\bin\Debug\Ass.pdb
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.Login.resources
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.QuanTri.resources
+C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.csproj.GenerateResource.Cache
