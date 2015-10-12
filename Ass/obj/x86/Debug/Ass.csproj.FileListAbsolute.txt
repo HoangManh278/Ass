@@ -34,3 +34,13 @@ C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.Login.resources
 C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.Properties.Resources.resources
 C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.QuanTri.resources
 C:\Users\Administrator\Desktop\Ass\Ass\obj\x86\Debug\Ass.csproj.GenerateResource.Cache
+C:\Users\fpoly\Downloads\Ass\Ass\bin\Debug\Ass.exe.config
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.exe
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.pdb
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.csprojResolveAssemblyReference.cache
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.Login.resources
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.QuanTri.resources
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.csproj.GenerateResource.Cache
+C:\Users\fpoly\Downloads\Ass\Ass\obj\x86\Debug\Ass.Properties.Resources.resources
+C:\Users\fpoly\Downloads\Ass\Ass\bin\Debug\Ass.exe
+C:\Users\fpoly\Downloads\Ass\Ass\bin\Debug\Ass.pdb
