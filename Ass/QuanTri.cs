@@ -58,8 +58,9 @@ namespace Ass
                 txtMaMonAn.Text = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
                 txtTenMonAn.Text = dataGridView1.SelectedRows[0].Cells[1].Value.ToString();
                 cboLoaiMonAn.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
-                string value = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
-                txtDonGia.Text = value;
+                string dongia = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
+                txtDonGia.Text = String.Format("{0:0.00}",dongia);
+                //MessageBox.Show(dongia);
             }
         }
         private void btnThoat_Click(object sender, EventArgs e)
